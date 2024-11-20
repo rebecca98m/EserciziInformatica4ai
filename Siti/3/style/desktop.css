@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: beige;
+    padding: 1em;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+ul li {
+    display: inline;
+}
+
+footer {
+    background-color: rgb(46, 45, 45);
+    color: white;
+    padding: 1em;
+}
