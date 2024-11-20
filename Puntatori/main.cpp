@@ -22,6 +22,8 @@ int main() {
 	cout << *p1 << endl;
 	cout << *p2 << endl;
 	
+	cout << "Fine esercizio" << endl;
+	
 	
 	
 	system("pause");
